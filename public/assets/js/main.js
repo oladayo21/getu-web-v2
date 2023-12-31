@@ -500,7 +500,7 @@
     slidesPerView: 1,
     arrows: true,
     autoplay: {
-      delay: 10000
+      delay: 4000
     },
     // autoplay: true,
     effect: 'fade',
